@@ -1,9 +1,9 @@
-# AndyCoin progress
+# Project progress
 
 ## Implemented
 
 - Features
-- That 
+- That
 - are done
 
 ## TODO

@@ -2,8 +2,6 @@
 
 ## Architecture
 
-AndyCoin follows a modular architecture with clear separation of concerns:
-
 ```txt
 Tree structered overview...
 ```
@@ -13,12 +11,12 @@ Tree structered overview...
 ### Repository Pattern
 
 - How persistent data is handled and interfaced
-- 
-- 
+- ...
+- ...
 
 ## Data Flow
 
-example data flow... 
+example data flow...
 
 1. User issues a command in Discord
 2. Poise framework routes the command to the appropriate handler
@@ -27,14 +25,14 @@ example data flow...
 ## Error Handling
 
 - Error handling idioms
-- 
-- 
+- ...
+- ...
 
 ## Concurrency Model
 
-- Asyc / threading / etc 
-- 
-- 
+- Async / threading / etc
+- ...
+- ...
 
 ## Testing Strategy
 
