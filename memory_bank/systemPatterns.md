@@ -2,46 +2,57 @@
 
 ## Architecture
 
-```txt
-Tree structered overview...
+[Describe your system's overall architecture. What architectural patterns do you follow? Include a high-level diagram or text representation of your system's structure.]
+
+```
+[System architecture diagram or text representation]
 ```
 
 ## Design Patterns
 
-### Repository Pattern
+[List and describe the key design patterns used in your project.]
 
-- How persistent data is handled and interfaced
-- ...
-- ...
+### [Pattern 1]
+- [How it's implemented in your system]
+- [Benefits it provides]
+- [Any customizations or variations]
+
+### [Pattern 2]
+- [How it's implemented in your system]
+- [Benefits it provides]
+- [Any customizations or variations]
 
 ## Data Flow
 
-example data flow...
+[Describe how data flows through your system. Include step-by-step processes for key operations.]
 
-1. User issues a command in Discord
-2. Poise framework routes the command to the appropriate handler
-3. ....
+1. [Step 1 of a key process]
+2. [Step 2 of a key process]
+3. [Step 3 of a key process]
+4. [Additional steps as needed]
 
 ## Error Handling
 
-- Error handling idioms
-- ...
-- ...
+- [Error handling strategy]
+- [How errors are logged and reported]
+- [Recovery mechanisms]
 
 ## Concurrency Model
 
-- Async / threading / etc
-- ...
-- ...
+- [Describe your approach to concurrency]
+- [Threading or async model used]
+- [How race conditions are prevented]
 
 ## Testing Strategy
 
-- Unit tests for core functionality
-- Integration tests for command behavior
-- Mock objects for external dependencies
+- [Unit testing approach]
+- [Integration testing approach]
+- [Mock objects and test doubles strategy]
+- [Test coverage goals]
 
 ## Deployment
 
-- Manual deployment process
-- Environment variables for configuration
-- Logging for monitoring and debugging
+- [Deployment process]
+- [Environment configuration]
+- [Monitoring and logging approach]
+- [Rollback procedures]

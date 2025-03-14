@@ -2,22 +2,28 @@
 
 ## Tech Stack
 
-- Rust (1.85+)
-- Serenity, Poise libraries for discord
-- toml files for persisting and updating state (eventually need to improve this)
-- GitHub for version control
-- Manual deployment at the moment
+- [Primary Programming Language]
+- [Frameworks/Libraries]
+- [Data Storage Solution]
+- [Version Control System]
+- [Deployment Method]
 
 ## Project Structure
 
-```
-(replace with tree .)
+```txt
+(replace with output of `tree .` command)
 ```
 
-## Database info
+## Database/Storage Info
 
+- [Database Type]
+- [Connection Details]
+- [Schema Information]
 
 ## Development Workflow
 
-- Cline helps write and review code changes.
-- User will make edits and decide directions between Cline sessions.
+- [Development Process]
+- [Code Review Process]
+- [Testing Strategy]
+- [Deployment Process]
+- [AI Assistant Role] - How Cline should help (code review, implementation, debugging, etc.)
