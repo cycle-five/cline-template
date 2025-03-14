@@ -24,11 +24,11 @@ This repository provides a structured framework for communicating project contex
 
 The `memory_bank` directory contains several markdown files that help provide context to AI assistants:
 
-- **projectBrief.md**: High-level overview of your project, its goals, and requirements
-- **techContext.md**: Technical details about your project's stack, architecture, and environment
-- **productContext.md**: Information about your product vision, user personas, and feature priorities
-- **systemPatterns.md**: Details about your system's architecture, design patterns, and data flow
-- **activeContext.md**: Current development focus, recent changes, and known issues
+- **project_brief.md**: High-level overview of your project, its goals, and requirements
+- **tech_context.md**: Technical details about your project's stack, architecture, and environment
+- **product_context.md**: Information about your product vision, user personas, and feature priorities
+- **system_patterns.md**: Details about your system's architecture, design patterns, and data flow
+- **active_context.md**: Current development focus, recent changes, and known issues
 - **progress.md**: Tracking of implemented features and upcoming work
 
 ## Best Practices

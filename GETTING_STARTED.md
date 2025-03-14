@@ -23,7 +23,7 @@ This guide will help you set up and customize this template repository for your 
 
 The `memory_bank` directory contains markdown files that provide context to AI assistants. Customize each file with your project's specific details:
 
-### projectBrief.md
+### project_brief.md
 
 This file should contain a high-level overview of your project:
 
@@ -32,7 +32,7 @@ This file should contain a high-level overview of your project:
 - Target users or audience
 - Technical preferences or constraints
 
-### techContext.md
+### tech_context.md
 
 Document your project's technical details:
 
@@ -42,7 +42,7 @@ Document your project's technical details:
 - Logging, error handling, and testing approaches
 - Deployment and performance considerations
 
-### productContext.md
+### product_context.md
 
 Outline your product vision:
 
@@ -50,7 +50,7 @@ Outline your product vision:
 - User personas and journeys
 - Feature prioritization and roadmap
 
-### systemPatterns.md
+### system_patterns.md
 
 Describe your system's architecture:
 
@@ -60,7 +60,7 @@ Describe your system's architecture:
 - Error handling and concurrency models
 - Testing and deployment strategies
 
-### activeContext.md
+### active_context.md
 
 Keep this file updated with your current development focus:
 
@@ -95,7 +95,7 @@ The `.clinerules` file helps AI assistants understand your project configuration
 
 2. **Keep documentation updated**
    - Update the memory bank files as your project evolves
-   - Especially update activeContext.md before each session
+   - Especially update active_context.md before each session
 
 3. **Provide feedback**
    - Let the AI know when its suggestions are helpful or not
@@ -111,7 +111,7 @@ The `.clinerules` file helps AI assistants understand your project configuration
 
 ## Example Workflow
 
-1. Update `activeContext.md` with your current focus
+1. Update `active_context.md` with your current focus
 2. Start a session with the AI assistant
 3. Reference specific files or components you're working on
 4. Ask for specific help (code review, implementation ideas, debugging)
